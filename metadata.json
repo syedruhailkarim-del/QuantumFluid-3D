@@ -1,0 +1,6 @@
+{
+  "name": "QuantumFluid 3D",
+  "description": "Interactive GPGPU physics supercomputer and scientific telemetry lab simulating Eulerian Navier-Stokes fluid dynamics and Time-Dependent Schrödinger quantum wave fields.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
